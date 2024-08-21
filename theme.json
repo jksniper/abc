@@ -1,0 +1,50 @@
+[
+  {
+    "themeId": 0,
+    "themeName": "theme0-debug-androidTest",
+    "bgColor": "#FAFBFC",
+    "bgUrl": ""
+  },
+  {
+    "themeId": 1,
+    "themeName": "theme1-debug-androidTest",
+    "bgColor": "#191D21",
+    "bgUrl": ""
+  },
+  {
+    "themeId": 2,
+    "themeName": "theme2-debug-androidTest",
+    "bgColor": "#AABBAC",
+    "bgUrl": ""
+  },
+  {
+    "themeId": 3,
+    "themeName": "theme3-debug-androidTest",
+    "bgColor": "#F3EEE8",
+    "bgUrl": ""
+  },
+  {
+    "themeId": 4,
+    "themeName": "theme4-debug-androidTest",
+    "bgColor": "#DAE5EB",
+    "bgUrl": ""
+  },
+  {
+    "themeId": 5,
+    "themeName": "theme5-debug-androidTest",
+    "bgColor": "#DACFD1",
+    "bgUrl": ""
+  },
+  {
+    "themeId": 6,
+    "themeName": "theme6-debug-androidTest",
+    "bgColor": "#CBC9D3",
+    "bgUrl": ""
+  },
+  {
+    "themeId": 7,
+    "themeName": "theme7-debug-androidTest",
+    "bgColor": "#5A5A5C",
+    "bgUrl": ""
+  }
+]
